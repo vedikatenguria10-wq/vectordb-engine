@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+numpy
+faiss-cpu
+sentence-transformers
+lancedb
+rank-bm25
+streamlit
+plotly
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+pytest
+httpx
+pydantic
+datasets
+tqdm
